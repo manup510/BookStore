@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Mystery Book",
+        "title": "Books are central to our Library Management System.",
+        "price": 0,
+        "category": "Free",
+         "image":"https://img.freepik.com/premium-photo/colorful-flat-design-book-colorful-flat-design-book-stack_1293178-1219.jpg?ga=GA1.2.167346220.1723622508"
+    },
+    {
+        "id": 2,
+        "name": "Science Fiction Book",
+        "title": "Books are central to our Library Management System.",
+        "price": 0,
+        "category": "Free",
+         "image":"https://img.freepik.com/premium-photo/colorful-flat-design-book-colorful-flat-design-book-stack_1293178-1219.jpg?ga=GA1.2.167346220.1723622508"
+     },
+    {
+        "id": 3,
+        "name": "Historical Fiction Book",
+        "title": "Books are central to our Library Management System.",
+        "price":0,
+        "category": "Free",
+         "image":"https://img.freepik.com/premium-photo/colorful-flat-design-book-colorful-flat-design-book-stack_1293178-1219.jpg?ga=GA1.2.167346220.1723622508"
+    },
+    {
+        "id": 4,
+        "name": "Fantasy Book",
+        "title": "Books are central to our Library Management System.",
+        "price": 0,
+        "category": "Free",
+         "image":"https://img.freepik.com/premium-photo/colorful-flat-design-book-colorful-flat-design-book-stack_1293178-1219.jpg?ga=GA1.2.167346220.1723622508"
+    },
+    {
+        "id": 5,
+        "name": "Biography Book",
+        "title": "Books are central to our Library Management System.",
+        "price": 80,
+        "category": "Free",
+         "image":"https://img.freepik.com/premium-photo/colorful-flat-design-book-colorful-flat-design-book-stack_1293178-1219.jpg?ga=GA1.2.167346220.1723622508"
+    },
+    {
+        "id": 6,
+        "name": "Non-Fiction Book",
+        "title": "Books are central to our Library Management System.",
+        "price": 40,
+        "category": "Free",
+         "image":"https://img.freepik.com/premium-photo/colorful-flat-design-book-colorful-flat-design-book-stack_1293178-1219.jpg?ga=GA1.2.167346220.1723622508"
+   },
+    {
+        "id": 7,
+        "name": "Young Adult Book",
+        "title": "Books are central to our Library Management System.",
+        "price": 0,
+        "category": "Free",
+         "image":"https://img.freepik.com/premium-photo/colorful-flat-design-book-colorful-flat-design-book-stack_1293178-1219.jpg?ga=GA1.2.167346220.1723622508"
+     },
+    {
+        "id": 8,
+        "name": "Children's Book",
+        "title": "Books are central to our Library Management System.",
+        "price": 230,
+        "category": "Free",
+         "image":"https://img.freepik.com/premium-photo/colorful-flat-design-book-colorful-flat-design-book-stack_1293178-1219.jpg?ga=GA1.2.167346220.1723622508"
+    },     
+    {
+        "id": 9,
+        "name": "Cookbook",
+        "title": "Books are central to our Library Management System.",
+        "price": 100,
+        "category": "Free",
+        "image":"https://img.freepik.com/premium-photo/colorful-flat-design-book-colorful-flat-design-book-stack_1293178-1219.jpg?ga=GA1.2.167346220.1723622508"
+    },
+    {
+        "id": 10,
+        "name": "Self-Help Book",
+        "title": "Books are central to our Library Management System.",
+        "price": 200,
+        "category": "Free",
+         "image":"https://img.freepik.com/premium-photo/colorful-flat-design-book-colorful-flat-design-book-stack_1293178-1219.jpg?ga=GA1.2.167346220.1723622508"
+        
+    },
+    {
+        "id": 11,
+        "name": "Travel Book",
+        "title": "Books are central to our Library Management System.",
+        "price": 0,
+        "category": "Free",
+         "image":"https://img.freepik.com/premium-photo/colorful-flat-design-book-colorful-flat-design-book-stack_1293178-1219.jpg?ga=GA1.2.167346220.1723622508"
+        
+    }
+]
